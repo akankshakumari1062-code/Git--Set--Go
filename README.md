@@ -1,2 +1,2 @@
 # Git--Set--Go
-This is my first Git Repo
+This is my first Git Repository
